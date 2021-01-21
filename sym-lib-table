@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name proton_c)(type Legacy)(uri C:/Users/Chris/Downloads/qmk_hardware-master/qmk_hardware-master/kicad/proton_c/proton_c.lib)(options "")(descr ""))
+  (lib (name dk_Encoders)(type Legacy)(uri C:/Users/Chris/Downloads/digikey-kicad-library-master/digikey-kicad-library-master/digikey-symbols/dk_Encoders.lib)(options "")(descr ""))
+  (lib (name dk_Display-Modules-LCD-OLED-Graphic)(type Legacy)(uri C:/Users/Chris/Downloads/digikey-kicad-library-master/digikey-kicad-library-master/digikey-symbols/dk_Display-Modules-LCD-OLED-Graphic.lib)(options "")(descr ""))
+  (lib (name Display_Graphic)(type Legacy)(uri C:/Users/Chris/Documents/Display_Graphic.lib)(options "")(descr ""))
+)

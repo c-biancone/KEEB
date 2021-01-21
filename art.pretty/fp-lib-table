@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Voyager_plaque_location")(type KiCad)(uri "$(KIPRJMOD)/Voyager_plaque_location.pretty")(options "")(descr ""))
+)
